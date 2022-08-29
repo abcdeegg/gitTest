@@ -11,6 +11,8 @@ public class gitTest {
         System.out.println("masterTest");
         System.out.println("fixed2");
 
+        System.out.println("after merge");
+
         System.out.println("hotfixTest");
     }
 }
