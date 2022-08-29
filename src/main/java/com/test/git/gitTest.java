@@ -14,5 +14,6 @@ public class gitTest {
         System.out.println("after merge");
 
         System.out.println("hotfixTest");
+        System.out.println("testPush");
     }
 }
